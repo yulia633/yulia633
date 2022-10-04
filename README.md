@@ -1,5 +1,11 @@
-[![](https://github-readme-stats.vercel.app/api?username=yulia633)](https://github.com/yulia633) 
-<!---
-yulia633/yulia633 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there 👋
+
+#### I'm a Back-end Developer.
+
+##### BIO
+
+- I'm currently working at **Studio256**
+- I use daily: php, postgresql, laravel, yii2, jsonapi and etc
+- I like automation, ci/cd, various monitoring, etc
+
+⚡️ Fun fact: I'm a big fan of vinyl, football and books
