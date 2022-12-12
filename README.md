@@ -4,7 +4,6 @@
 
 ##### BIO
 
-- I'm currently working at **Studio256**
 - I use daily: php, postgresql, laravel, yii2, jsonapi and etc
 - I like automation, ci/cd, various monitoring, etc
 
